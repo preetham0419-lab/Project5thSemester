@@ -1,0 +1,16 @@
+# 5th Semester Cybersecurity Program
+
+Comprehensive cybersecurity curriculum for diploma students.
+
+## Modules
+1. Cryptography & Encryption
+2. Network Security
+3. Web Application Security
+4. Ethical Hacking & Penetration Testing
+5. Incident Response & Forensics
+6. Secure Coding
+7. Cloud Security
+8. IoT Security
+
+## Resources
+See individual module folders for lectures, labs, and assignments.
